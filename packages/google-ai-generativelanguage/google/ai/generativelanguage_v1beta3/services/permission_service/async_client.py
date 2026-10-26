@@ -244,10 +244,11 @@ class PermissionServiceAsyncClient:
             # This snippet has been automatically generated and should be regarded as a
             # code template only.
             # It will require modifications to work:
-            # - It may require correct/in-range values for request initialization.
-            # - It may require specifying regional endpoints when creating the service
+            # \- It may require correct/in-range values for request initialization.
+            # \- It may require specifying regional endpoints when creating the service
             #   client as shown in:
             #   https://googleapis.dev/python/google-api-core/latest/client_options.html
+
             from google.ai import generativelanguage_v1beta3
 
             async def sample_create_permission():
@@ -306,11 +307,12 @@ class PermissionServiceAsyncClient:
                 role's permitted operations:
 
                  - reader can use the resource (e.g.
-                  tuned model) for inference
+                   tuned model) for inference
                  - writer has reader's permissions and
-                  additionally can edit and share
+                   additionally can edit and share
                  - owner has writer's permissions and
-                  additionally can delete
+                   additionally can delete
+
 
         """
         # Create or coerce a protobuf request object.
@@ -373,10 +375,11 @@ class PermissionServiceAsyncClient:
             # This snippet has been automatically generated and should be regarded as a
             # code template only.
             # It will require modifications to work:
-            # - It may require correct/in-range values for request initialization.
-            # - It may require specifying regional endpoints when creating the service
+            # \- It may require correct/in-range values for request initialization.
+            # \- It may require specifying regional endpoints when creating the service
             #   client as shown in:
             #   https://googleapis.dev/python/google-api-core/latest/client_options.html
+
             from google.ai import generativelanguage_v1beta3
 
             async def sample_get_permission():
@@ -433,11 +436,12 @@ class PermissionServiceAsyncClient:
                 role's permitted operations:
 
                  - reader can use the resource (e.g.
-                  tuned model) for inference
+                   tuned model) for inference
                  - writer has reader's permissions and
-                  additionally can edit and share
+                   additionally can edit and share
                  - owner has writer's permissions and
-                  additionally can delete
+                   additionally can delete
+
 
         """
         # Create or coerce a protobuf request object.
@@ -500,10 +504,11 @@ class PermissionServiceAsyncClient:
             # This snippet has been automatically generated and should be regarded as a
             # code template only.
             # It will require modifications to work:
-            # - It may require correct/in-range values for request initialization.
-            # - It may require specifying regional endpoints when creating the service
+            # \- It may require correct/in-range values for request initialization.
+            # \- It may require specifying regional endpoints when creating the service
             #   client as shown in:
             #   https://googleapis.dev/python/google-api-core/latest/client_options.html
+
             from google.ai import generativelanguage_v1beta3
 
             async def sample_list_permissions():
@@ -617,10 +622,11 @@ class PermissionServiceAsyncClient:
             # This snippet has been automatically generated and should be regarded as a
             # code template only.
             # It will require modifications to work:
-            # - It may require correct/in-range values for request initialization.
-            # - It may require specifying regional endpoints when creating the service
+            # \- It may require correct/in-range values for request initialization.
+            # \- It may require specifying regional endpoints when creating the service
             #   client as shown in:
             #   https://googleapis.dev/python/google-api-core/latest/client_options.html
+
             from google.ai import generativelanguage_v1beta3
 
             async def sample_update_permission():
@@ -683,11 +689,12 @@ class PermissionServiceAsyncClient:
                 role's permitted operations:
 
                  - reader can use the resource (e.g.
-                  tuned model) for inference
+                   tuned model) for inference
                  - writer has reader's permissions and
-                  additionally can edit and share
+                   additionally can edit and share
                  - owner has writer's permissions and
-                  additionally can delete
+                   additionally can delete
+
 
         """
         # Create or coerce a protobuf request object.
@@ -754,10 +761,11 @@ class PermissionServiceAsyncClient:
             # This snippet has been automatically generated and should be regarded as a
             # code template only.
             # It will require modifications to work:
-            # - It may require correct/in-range values for request initialization.
-            # - It may require specifying regional endpoints when creating the service
+            # \- It may require correct/in-range values for request initialization.
+            # \- It may require specifying regional endpoints when creating the service
             #   client as shown in:
             #   https://googleapis.dev/python/google-api-core/latest/client_options.html
+
             from google.ai import generativelanguage_v1beta3
 
             async def sample_delete_permission():
@@ -847,10 +855,11 @@ class PermissionServiceAsyncClient:
             # This snippet has been automatically generated and should be regarded as a
             # code template only.
             # It will require modifications to work:
-            # - It may require correct/in-range values for request initialization.
-            # - It may require specifying regional endpoints when creating the service
+            # \- It may require correct/in-range values for request initialization.
+            # \- It may require specifying regional endpoints when creating the service
             #   client as shown in:
             #   https://googleapis.dev/python/google-api-core/latest/client_options.html
+
             from google.ai import generativelanguage_v1beta3
 
             async def sample_transfer_ownership():
